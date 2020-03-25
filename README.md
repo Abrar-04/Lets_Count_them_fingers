@@ -1,2 +1,5 @@
 # Lets_Count_them_fingers
-finger counter
+
+A simple GUI program to detect and count the no.of fingers shown
+
+
