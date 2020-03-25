@@ -4,7 +4,7 @@ A simple GUI program to detect and count the no.of fingers shown
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-# * Simple GUI
+# Simple GUI
 
 
 ![](fingers_pics/gui.PNG)
@@ -17,7 +17,7 @@ A simple GUI program to detect and count the no.of fingers shown
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-#  1
+# 1
 
 ![](fingers_pics/1.png)
 
