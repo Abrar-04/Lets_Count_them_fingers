@@ -4,14 +4,14 @@ A simple GUI program to detect and count the no.of fingers shown
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-*Simple GUI
+* Simple GUI
 
 ![](fingers_pics/gui.PNG)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-*This step allows the user to make sure that there are no obstructions/noise and gives a time of 30 frames to adjust your hand into the 
- ROI {Region Of Interest}
+* This step allows the user to make sure that there are no obstructions/noise and gives a time of 30 frames to adjust your hand into the 
+  ROI {Region Of Interest}
 
 ![](fingers_pics/bgd.PNG)
 
